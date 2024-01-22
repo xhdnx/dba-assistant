@@ -1,0 +1,32 @@
+/* master colors
+#00887a
+#ffccbc
+#ffffff
+#d3e3fc
+#77a6f7
+*/
+
+* {
+    margin: 0;
+    padding: 0; 
+    list-style: none;
+}
+
+#content{
+    background-color: #77a6f7;
+    width: 80%;
+    float: right;
+}
+
+#menupanel{
+    display: fixed;
+    width: 20%;
+    background-color: #d3e3fc;
+    float: left;
+    padding: .5%;
+}
+
+#content_header{
+    background-color: #9fd9d3;
+    min-height: 5%;
+}

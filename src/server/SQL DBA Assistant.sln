@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLDBAAssistant", "SQLDBAAssistant\SQLDBAAssistant.csproj", "{AAF679D7-3F8C-4233-B657-5EAF30F0D508}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{98F9D07E-040C-47A3-9946-6AE8C68B2484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF679D7-3F8C-4233-B657-5EAF30F0D508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF679D7-3F8C-4233-B657-5EAF30F0D508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF679D7-3F8C-4233-B657-5EAF30F0D508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF679D7-3F8C-4233-B657-5EAF30F0D508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4AF076-E877-4B8B-B42C-E39E12470590}
+	EndGlobalSection
+EndGlobal

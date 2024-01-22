@@ -1,0 +1,64 @@
+/* master colors
+#00887a
+#ffccbc
+#ffffff
+#d3e3fc
+#77a6f7
+*/
+
+.templateTable, .emptyBlock{
+    text-align: center;
+    width: 70%;
+    margin: 10px 0 10px 15px;
+}
+
+.emptyBlock, caption{
+    color: darkblue;
+    background: rgba(25,25,25,0.1);
+    margin: 15px 0 0 10;
+    font-size: 20px;
+}
+
+.emptyBlock{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.emptyBlock span{
+    float: left;
+}
+
+.TableBtn{
+    float: right;
+    width: 50%;
+}
+
+table {
+    border: 1px solid black
+}
+#head td{
+    background-color: #99ced3;
+}
+
+.smallBtn{
+    padding: 5px;
+    float: right;
+    margin: 0 5px;
+}
+
+.smallBtn{
+    font-size: 9px;
+    background: #99ced3;
+    border: none;
+    margin-top: 5px;
+}
+
+caption {
+    caption-side: top;
+    padding: 10px;
+}
+
+
+.table td{
+    width: auto;
+}
